@@ -15,6 +15,9 @@
 
 ### 📫 Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bit1k)
+![Iliya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iliya8989&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iliya8989&layout=compact&theme=tokyonight)
+
 
 ---
 
